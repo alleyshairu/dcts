@@ -1,0 +1,15 @@
+#### Identifying Number of Missing Values Per Column
+
+Identifying missing values per column is a critical step in data analysis because missing data can significantly impact the results of your analysis or model. Identifying them helps assess the overall quality of your dataset, which is crucial before performing any analysis.
+
+Similarly, the presence or absence of certain data might be indicative of a pattern that can be turned into a new feature which might help us in our features engineering process.
+
+
+Created a github repository
+
+Added my PC SSH key to my account
+
+Added remote origin to my local git account
+git remote add origin git@github.com:alleyshairu/dcts.git
+
+pushed data online
