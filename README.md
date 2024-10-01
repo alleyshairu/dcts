@@ -47,6 +47,8 @@ pip install geopandas
 pip install matplotlib
 pip install scikit-learn 
 ```
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
 
 ## Contributing
 If you can help us with these. Please don't hesitate to open an [pull request](https://github.com/alleyshairu/uclearncode/pulls) or [issue](https://github.com/alleyshairu/uclearncode/issues).
