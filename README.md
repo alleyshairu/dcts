@@ -46,6 +46,7 @@ pip install seaborn
 pip install geopandas
 pip install matplotlib
 pip install scikit-learn 
+pip install category_encoders 
 ```
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](./LICENSE) file for details.
