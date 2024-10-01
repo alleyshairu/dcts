@@ -27,9 +27,9 @@ We are trying to analyze all restaurants in the Sydney area in 2018 with the obj
 11. Data Encoding
 12. Identify Source And Target Variables
 13.  Split Data into separate training and test
-14. Regression Analysis 
-15. Classification 
-
+14. Linear Regression (Model 1)
+15. Linear Regression Using Gradient Descent Optimisation Function (Model 2)
+16. Binary Classification 
 
 ## Requirements
 
